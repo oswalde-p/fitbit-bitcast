@@ -19,4 +19,4 @@ Podcast.prototype.latestEp = function(){
       reject(error);
     });
   });
-}
+};
